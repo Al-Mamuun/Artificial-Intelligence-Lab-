@@ -1,4 +1,4 @@
-﻿# Artificial-Intelligence-Lab-
+﻿# Artificial-Intelligence-Lab
 🤖 Artificial Intelligence Lab: Student Performance Evaluation 🎓
 Welcome to the Student Performance Evaluation project — a Prolog-based knowledgebase designed to analyze and assess student academic records efficiently! This system models marks, attendance, assignments, family ties, and subject prerequisites to generate insightful academic evaluations.
 
@@ -37,4 +37,5 @@ Run sample queries:
 ?- grade(anika, physics, Grade).
 ?- topper(Student).
 ?- eligible_for_scholarship(anika).
+
 
